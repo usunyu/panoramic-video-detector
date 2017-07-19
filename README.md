@@ -1,4 +1,4 @@
-# PanoramicVideoDetector
+# panoramic-video-detector
 
 ##### Compare side column pixels for first frame of test video (https://www.youtube.com/watch?v=K_J8k43gUhY):
 
